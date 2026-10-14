@@ -35,7 +35,7 @@ Open-Source-Projekten mitwirken und irgendwann an einem Projekt arbeiten,
 das einen echten Mehrwert für die Gesellschaft schafft.
 
 ## Kontakt
-- 📧 E-Mail: lena.mueller1@outlook.com
+- 📧 E-Mail: lena.mueller1@atomicmail.io
 - 📍 Standort: Frankfurt am Main, Deutschland
 
 ---
